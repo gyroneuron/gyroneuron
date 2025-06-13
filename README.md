@@ -2,6 +2,8 @@
 🔭 I’m currently building an iOS athlete network platform.<br>👯 I’m looking to collaborate on mobile apps in healthcare, sports, or productivity.<br>🤝 I’m looking for help with secure document flows & iOS dashboard UI.<br>🌱 I’m currently learning Swift & advanced iOS development.<br>💬 Ask me about React Native, Supabase, or building MVPs fast.<br>⚡ Fun fact: I’m a state-level martial artist & Picasso Award winner in painting!
 
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyroneuron&theme=vue" alt="Profile details badge"/>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekjaglan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekjaglan34@gmail.com) 
 
