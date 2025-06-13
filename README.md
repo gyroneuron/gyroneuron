@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a medical docs app & an iOS athlete network platform.<br>👯 I’m looking to collaborate on mobile apps in healthcare, sports, or productivity.<br>🤝 I’m looking for help with secure document flows & iOS dashboard UI.<br>🌱 I’m currently learning Swift & advanced iOS development.<br>💬 Ask me about React Native, Supabase, or building MVPs fast.<br>⚡ Fun fact: I’m a state-level martial artist & Picasso Award winner in painting!
+🔭 I’m currently building an iOS athlete network platform.<br>👯 I’m looking to collaborate on mobile apps in healthcare, sports, or productivity.<br>🤝 I’m looking for help with secure document flows & iOS dashboard UI.<br>🌱 I’m currently learning Swift & advanced iOS development.<br>💬 Ask me about React Native, Supabase, or building MVPs fast.<br>⚡ Fun fact: I’m a state-level martial artist & Picasso Award winner in painting!
 
 
 ## 🌐 Socials:
